@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">東宜銀行</string>
+    <string name="msgSystemInfo">系統通知</string>
+    <string name="ok">確定</string>
+    <string name="menuAbout">關於</string>
+    <string name="aboutTiis">Powered by TIIS Co. Ltd. \nAll rights reserved.</string>
 </resources>

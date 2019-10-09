@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "442861530475",
+    "firebase_url": "https://fir-sample-mlkit-6b48c.firebaseio.com",
+    "project_id": "fir-sample-mlkit-6b48c",
+    "storage_bucket": "fir-sample-mlkit-6b48c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442861530475:android:fef077fd49dd793508702e",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442861530475-ahoo38e4cnqkl31k1l1j96do4v5pe72c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj3uCYnZvDCnYoUt2X2l-k8c7XY1zvg48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442861530475-ahoo38e4cnqkl31k1l1j96do4v5pe72c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442861530475:android:47300aabcd11ad9408702e",
+        "android_client_info": {
+          "package_name": "com.tiis.tiisbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442861530475-ahoo38e4cnqkl31k1l1j96do4v5pe72c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj3uCYnZvDCnYoUt2X2l-k8c7XY1zvg48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442861530475-ahoo38e4cnqkl31k1l1j96do4v5pe72c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
