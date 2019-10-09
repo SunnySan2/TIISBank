@@ -3,5 +3,5 @@
     <string name="msgSystemInfo">系統通知</string>
     <string name="ok">確定</string>
     <string name="menuAbout">關於</string>
-    <string name="aboutTiis">Powered by TIIS Co. Ltd. \nAll rights reserved.</string>
+    <string name="aboutTiis">Powered by TIIS. \nAll rights reserved.</string>
 </resources>
