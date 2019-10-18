@@ -29,6 +29,13 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         setMenuIcon();
         setOnClickListener();
+
+        String userId = utility.getMySetting(this, "userId");
+        if (userId.length()<1){
+            Intent i = new Intent();
+            i.setClass(MainActivity.this, RegistrationActivity.class);
+            startActivity(i);
+        }
     }
 
     // 加入載入選單資源的方法
